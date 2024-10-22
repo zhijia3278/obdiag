@@ -6,7 +6,11 @@
     "vscode": {
       "extensions": [
         "cschleiden.vscode-github-actions",
-        "vadimcn.vscode-lldb"
+        "vadimcn.vscode-lldb",
+        "ms-python.python",
+        "frhtylcn.pythonsnippets",
+        "aaron-bond.better-comments",
+        "formulahendry.code-runner"
       ],
       "settings": {
         "editor.formatOnSave": true
